@@ -1,6 +1,6 @@
 <html>
   <title>My Waifu</title>
-  <body bgcolor=pink>
+  <body bgcolor=pink><onbeforeunload="return myFunction()">
    
     <h1>Kawaiii <3!</h1>
  <a href=darling.jpg>
@@ -19,5 +19,10 @@
 
 
       <hr>
-  </body>
+   <script>
+function myFunction() {
+    return "On Before Test";
+}
+</script>
+      </body>
 </html>
