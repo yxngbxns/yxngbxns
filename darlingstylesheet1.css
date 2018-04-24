@@ -3,7 +3,7 @@
       h1 {
          color: red;
          font-size: 28pt;
-   font-family:Courier New;
+   font-family:Comic Sans MS;
         }
      body {
           background-image: url("bg1.png");
@@ -12,23 +12,23 @@
     p {
       color: pink;
       font-size: 24pt; 
-        font-family:Tahoma;
+        font-family:Comic Sans MS;
         }
    h2 {
       color: pink;
       font-size: 20pt; 
-        font-family:Tahoma;
+        font-family:Comic Sans MS;
         }
     h3 {
       color: pink;
       font-size: 8pt; 
-        font-family:Tahoma;
+        font-family:Comic Sans MS;
         }
         
      table {
          color: pink;
          font-size: 8pt;
-   font-family:Courier New;
+   font-family:Comic Sans MS;
         }
 
    
